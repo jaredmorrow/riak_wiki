@@ -1,6 +1,8 @@
 # Welcome to the Riak Wiki
 
-![Riak Logo](images/riaklogo.png)
+<notextile>
+<img src="images/riak_logo_animated1.gif" width="400"/>
+</notextile>
 
 Riak is a Dynamo-inspired database that is being used in production by companies like Mozilla and Comcast. Riak scales predictably and easily and simplifies development by giving users the ability to quickly prototype, test, and deploy their applications.
 
